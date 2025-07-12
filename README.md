@@ -31,10 +31,14 @@ Robotics enthusiast specializing in:
 - **Precision Spraying & Spot Spraying** — [Link to repo]
 
 ## 🛠️ Tools & Technologies
-![ROS2 (Humble,Jazzy)](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
 ![Photogrammetry](https://img.shields.io/badge/Photogrammetry-0078D4?style=for-the-badge)
-...
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ROS2 (Humble,Jazzy)](https://img.shields.io/badge/ROS_2_(Humble_Jazzy)-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-22223B?style=for-the-badge)
+![Autonomous Vehicles](https://img.shields.io/badge/Autonomous%20Vehicles-0A192F?style=for-the-badge)
 
 ## 📊 GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
