@@ -2,7 +2,9 @@
 Robotics, Photogrammetry &amp; UAV Crop Analysis Projects
 <div align="center">
   <h1>🌾 UAV & Robotics for Smart Agriculture 🌾</h1>
-  <img src="Computer_vision.gif" alt="Drone scanning crops" width="400"/>
+  <img src="Computer_vision.gif" alt="Drone scanning crops" width="450"/>
+  <img src="Drone.gif" alt="Smart and Sustainable Agriculture" width="350"/>
+  <img src="Mobile.gif" alt="Mobile robot for sustainable Agriculture" width="400"/>
 </div>
 
 ## 👋 About Me
