@@ -17,13 +17,13 @@ Robotics, Photogrammetry &amp; UAV Crop Analysis Projects
   </table>
 </div>
 
-## 👋 About Me
+## 👋 About Experience
 Robotics enthusiast specializing in:
 - Disease Detection using UAV Imagery
 - Plant Stand Count & Yield Estimation
 - Precision & Spot Spraying
 
-**Skills:** Franka Emika P3 | Turtlebot4 (SLAM) | Drones for Photogrammetry
+**Skills:** |Robotics and AI Researcher | UAV Engineer|ROS 2 Developer| Computer Vision| Deep Learning in Precision Agriculture| Drone Flight Control Engineer|
 
 ## 🚀 Featured Projects
 - **Disease Detection using UAV Imagery** — [Link to repo]
